@@ -1,0 +1,9 @@
+db:
+  dsn: "root:123456@tcp(192.168.5.4:3307)/hi_wiki"
+redis:
+  addr: "192.168.5.4:6379"
+minio:
+  endpoint: "192.168.5.5:9000"
+  accessKeyID: "3mMvjczyol5Mg9pnVxmn"
+  secureAccessKey: "tarpk3MVY0dGPUGG9fZh7zkBHprDRNkVFDVrK3FB"
+  useSSL: false
